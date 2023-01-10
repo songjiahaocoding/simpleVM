@@ -3,4 +3,4 @@ project(simpleVM)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(simpleVM main.cpp)
+add_executable(simpleVM lc3.cpp)
